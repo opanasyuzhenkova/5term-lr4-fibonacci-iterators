@@ -58,9 +58,3 @@ def fib_sequence(n):
         for _ in range(n):
             yield a
             a, b = b, a + b
-
-
-
-
-
-
