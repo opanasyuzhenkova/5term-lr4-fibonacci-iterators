@@ -45,6 +45,7 @@ class FibonacchiLst():
                 self.idx += 1
 
 
+
 def fib_iter(iterable_object):
     '''Function takes an iterable object as input and returns elems of Fibonacci Seq
     '''
